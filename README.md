@@ -74,7 +74,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=roger-demetrio-wmw.roger-demetrio-wmw&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=roger-demetrio-wmw.roger-demetrio-wmw"  />
 </div>
 
 ###
