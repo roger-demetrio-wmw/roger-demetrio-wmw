@@ -61,5 +61,5 @@
 </br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=roger-demetrio-wmw&theme=tokyonight-duo&hide_border=true&border_radius=0&date_format=n%2Fj%5B%2FY%5D&exclude_days=Sun%2CSat&card_width=640&card_height=120" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=roger-demetrio-wmw&theme=tokyonight-duo&hide_border=true&border_radius=0&exclude_days=Sun%2CSat&card_width=640&card_height=120" alt="GitHub Streak" />
 </div>
