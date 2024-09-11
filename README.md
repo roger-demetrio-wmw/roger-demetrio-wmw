@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm a consultant from Brazil<br><br>- 🔭 I’m working in some projects;<br>- 📚 I'm currently learning Django, Flet and Sqlalchemy;<br>- ⚡ In my free time I like to play games, and code.</p>
+<p align="left">I'm a deployment consultant from Brazil<br><br>- 🔭 I’m working in some projects;<br>- 📚 I'm currently learning Django, Flet and Sqlalchemy;<br>- ⚡ In my free time I like to play games, and code.</p>
 
 ###
 
