@@ -3,9 +3,6 @@
 <h1 align="center">hey there 👋</h1>
 <img align="right" height="180" src="https://github.com/user-attachments/assets/e740e801-6fea-4eb0-b47e-de85b7be45bf" />
 
-
-
-
 ###
 
 <div align="left">
@@ -61,20 +58,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="40" alt="jira logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+</br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=roger-demetrio-wmw&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=roger-demetrio-wmw&theme=tokyonight-duo&hide_border=true&border_radius=0&date_format=n%2Fj%5B%2FY%5D&exclude_days=Sun%2CSat&card_width=640&card_height=120" alt="GitHub Streak" />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=roger-demetrio-wmw.roger-demetrio-wmw"  />
-</div>
-
-###
